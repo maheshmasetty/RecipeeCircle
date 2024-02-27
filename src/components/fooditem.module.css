@@ -1,0 +1,41 @@
+.itemcontainer{
+    width:300px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgb(0,0,0,0.1);
+    margin: 20px;
+    overflow: hidden;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* display: inline-block; */
+}
+
+.itemimage{
+    max-width: 100%;
+    height: auto;
+}
+
+.itemcontent{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.itemname{
+    font-size: 1em;
+    font-weight:600;
+    color:#393e46;
+}
+.itembutton{
+    background-color: #29bb29;
+    border: none;
+    color: white;
+    padding: 10px;
+    font-size: 14px;
+    font-weight:600;
+    cursor: pointer;
+    border-radius: 12px;
+}
+.bc{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}

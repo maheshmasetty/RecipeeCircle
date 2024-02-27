@@ -1,0 +1,9 @@
+body{
+    margin:0;
+}
+.firstchild{
+    flex: 0.4;
+}
+.secondchild{
+    flex: 0.6;
+}

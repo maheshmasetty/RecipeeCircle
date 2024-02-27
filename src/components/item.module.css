@@ -1,0 +1,27 @@
+.itemcontainer{
+    display: flex;
+    padding: 10px;
+    margin-top: 50px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.5);
+    border-radius: 10px;
+    }
+    
+    .imagecontainer
+    {
+        width:20%;
+        height: 120px;
+        border-radius: 10px;
+    }
+    .namecontainer{
+        margin-top:10px;
+        margin-left: 50px;
+        align-items: center;
+    }
+    .name{
+        font-size: larger;
+        font-weight: bold;
+    }
+    .amount{
+        font-weight: bold;
+        
+    }
